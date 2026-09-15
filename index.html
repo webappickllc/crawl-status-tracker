@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Crawl Status Tracker</title>
+<style>
+  :root{
+    --paper:#F5F6F1;
+    --ink:#20261F;
+    --muted:#767C71;
+    --line:#DADDD4;
+    --accent:#2F6F52;
+    --indexed:#2F6F52;
+    --crawled-not-indexed:#B8863B;
+    --not-crawled:#B0492F;
+    --unknown:#8C9188;
+    --row-alt:#EFF1EA;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:Inter, -apple-system, "Segoe UI", system-ui, sans-serif;
+    font-size:14px;
+    line-height:1.5;
+  }
+  header{
+    padding:40px 48px 24px;
+    border-bottom:1px solid var(--line);
+  }
+  h1{
+    font-family:"Iowan Old Style","Georgia",serif;
+    font-weight:600;
+    font-size:28px;
+    margin:0 0 6px;
+    letter-spacing:-0.01em;
+  }
+  .meta{
+    color:var(--muted);
+    font-size:13px;
+  }
+  .meta span:not(:last-child)::after{
+    content:"  ·  ";
+    color:var(--line);
+  }
+  .controls{
+    display:flex;
+    flex-wrap:wrap;
+    gap:24px;
+    padding:20px 48px;
+    border-bottom:1px solid var(--line);
+    align-items:flex-end;
+  }
+  .field{
+    display:flex;
+    flex-direction:column;
+    gap:4px;
+  }
+  .field label{
+    font-size:11px;
+    color:var(--muted);
+    text-transform:uppercase;
+    letter-spacing:0.04em;
+  }
+  select, input[type="text"]{
+    font-family:inherit;
+    font-size:14px;
+    color:var(--ink);
+    background:transparent;
+    border:none;
+    border-bottom:1px solid var(--line);
+    padding:4px 2px 6px;
+    min-width:170px;
+    outline:none;
+  }
+  select:focus, input[type="text"]:focus{
+    border-bottom-color:var(--accent);
+  }
+  input[type="text"]{min-width:220px;}
+  .counts{
+    margin-left:auto;
+    display:flex;
+    gap:20px;
+    font-size:13px;
+    color:var(--muted);
+    align-self:center;
+  }
+  .counts b{color:var(--ink);}
+  table{
+    width:100%;
+    border-collapse:collapse;
+  }
+  thead th{
+    position:sticky;
+    top:0;
+    background:var(--paper);
+    text-align:left;
+    font-size:11px;
+    text-transform:uppercase;
+    letter-spacing:0.04em;
+    color:var(--muted);
+    font-weight:600;
+    padding:12px 16px;
+    border-bottom:1px solid var(--line);
+    cursor:pointer;
+    user-select:none;
+  }
+  thead th:hover{color:var(--ink);}
+  tbody tr{
+    border-bottom:1px solid var(--line);
+  }
+  tbody tr:nth-child(even){
+    background:var(--row-alt);
+  }
+  tbody td{
+    padding:10px 16px;
+    vertical-align:top;
+  }
+  td.url{
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    font-size:12.5px;
+    max-width:420px;
+    overflow-wrap:break-word;
+  }
+  td.url a{color:var(--ink); text-decoration:none;}
+  td.url a:hover{color:var(--accent); text-decoration:underline;}
+  td.date{
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    font-size:12.5px;
+    color:var(--muted);
+    white-space:nowrap;
+  }
+  .status{
+    display:inline-flex;
+    align-items:center;
+    gap:7px;
+    white-space:nowrap;
+  }
+  .dot{
+    width:8px;
+    height:8px;
+    border-radius:2px;
+    flex:none;
+    background:var(--unknown);
+  }
+  .dot.indexed{background:var(--indexed);}
+  .dot.crawled-not-indexed{background:var(--crawled-not-indexed);}
+  .dot.not-crawled{background:var(--not-crawled);}
+  .sitemap-yes{color:var(--accent);}
+  .sitemap-no{color:var(--not-crawled);}
+  .empty{
+    padding:48px;
+    text-align:center;
+    color:var(--muted);
+  }
+  footer{
+    padding:24px 48px 48px;
+    color:var(--muted);
+    font-size:12px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1 id="site-title">Crawl Status Tracker</h1>
+  <div class="meta">
+    <span id="meta-count">— pages</span>
+    <span id="meta-generated">generated —</span>
+    <span>inventory from sitemap + GSC URL Inspection API</span>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="field">
+    <label for="f-status">Status</label>
+    <select id="f-status">
+      <option value="">All statuses</option>
+      <option>Indexed</option>
+      <option>Not Crawled</option>
+      <option>Crawled, Not Indexed</option>
+      <option>Unknown</option>
+    </select>
+  </div>
+  <div class="field">
+    <label for="f-type">Type</label>
+    <select id="f-type"><option value="">All types</option></select>
+  </div>
+  <div class="field">
+    <label for="f-sitemap">Sitemap</label>
+    <select id="f-sitemap">
+      <option value="">All sitemap</option>
+      <option value="yes">In sitemap</option>
+      <option value="no">Not in sitemap</option>
+    </select>
+  </div>
+  <div class="field">
+    <label for="f-search">Search URL</label>
+    <input type="text" id="f-search" placeholder="/path or keyword">
+  </div>
+  <div class="counts" id="status-counts"></div>
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th data-key="url">URL</th>
+      <th data-key="type">Type</th>
+      <th data-key="lastUpdated">Last Updated</th>
+      <th data-key="lastCrawled">Last Crawled</th>
+      <th data-key="inSitemap">Sitemap</th>
+      <th data-key="status">Status</th>
+    </tr>
+  </thead>
+  <tbody id="rows"></tbody>
+</table>
+<div class="empty" id="empty-msg" style="display:none;">No URLs match the current filters.</div>
+
+<footer>Static snapshot. Regenerate <code>data.json</code> on a schedule (e.g. a daily GitHub Action) to keep this current.</footer>
+
+<script>
+let DATA = { site: "", generatedAt: "", rows: [] };
+let sortKey = "url";
+let sortAsc = true;
+
+const statusClass = s => ({
+  "Indexed": "indexed",
+  "Crawled, Not Indexed": "crawled-not-indexed",
+  "Not Crawled": "not-crawled",
+  "Unknown": "unknown"
+}[s] || "unknown");
+
+function fmtDate(d){
+  if(!d) return "—";
+  try{ return new Date(d).toISOString().slice(0,10); } catch(e){ return d; }
+}
+
+function render(){
+  const status = document.getElementById("f-status").value;
+  const type = document.getElementById("f-type").value;
+  const sitemap = document.getElementById("f-sitemap").value;
+  const search = document.getElementById("f-search").value.trim().toLowerCase();
+
+  let rows = DATA.rows.filter(r => {
+    if(status && r.status !== status) return false;
+    if(type && r.type !== type) return false;
+    if(sitemap === "yes" && !r.inSitemap) return false;
+    if(sitemap === "no" && r.inSitemap) return false;
+    if(search && !r.url.toLowerCase().includes(search)) return false;
+    return true;
+  });
+
+  rows.sort((a,b) => {
+    let av = a[sortKey] ?? "", bv = b[sortKey] ?? "";
+    if(av < bv) return sortAsc ? -1 : 1;
+    if(av > bv) return sortAsc ? 1 : -1;
+    return 0;
+  });
+
+  const tbody = document.getElementById("rows");
+  tbody.innerHTML = rows.map(r => `
+    <tr>
+      <td class="url"><a href="${r.url}" target="_blank" rel="noopener">${r.url}</a></td>
+      <td>${r.type || "—"}</td>
+      <td class="date">${fmtDate(r.lastUpdated)}</td>
+      <td class="date">${fmtDate(r.lastCrawled)}</td>
+      <td class="${r.inSitemap ? 'sitemap-yes':'sitemap-no'}">${r.inSitemap ? "In sitemap" : "Not in sitemap"}</td>
+      <td><span class="status"><span class="dot ${statusClass(r.status)}"></span>${r.status}</span></td>
+    </tr>
+  `).join("");
+
+  document.getElementById("empty-msg").style.display = rows.length ? "none" : "block";
+
+  const counts = {};
+  DATA.rows.forEach(r => counts[r.status] = (counts[r.status]||0)+1);
+  document.getElementById("status-counts").innerHTML = Object.entries(counts)
+    .map(([k,v]) => `<span><b>${v}</b> ${k}</span>`).join("");
+}
+
+function sortBy(key){
+  if(sortKey === key){ sortAsc = !sortAsc; } else { sortKey = key; sortAsc = true; }
+  render();
+}
+
+fetch("data.json")
+  .then(r => r.json())
+  .then(json => {
+    DATA = json;
+    document.getElementById("site-title").textContent = (json.site || "Site") + " — Crawl Status";
+    document.getElementById("meta-count").textContent = (json.totalPages ?? json.rows.length) + " pages";
+    document.getElementById("meta-generated").textContent = "generated " + (json.generatedAt || "—");
+
+    const types = [...new Set(json.rows.map(r => r.type))].sort();
+    const typeSel = document.getElementById("f-type");
+    types.forEach(t => {
+      const opt = document.createElement("option");
+      opt.value = t; opt.textContent = t;
+      typeSel.appendChild(opt);
+    });
+
+    document.querySelectorAll("thead th").forEach(th => {
+      th.addEventListener("click", () => sortBy(th.dataset.key));
+    });
+    ["f-status","f-type","f-sitemap"].forEach(id => document.getElementById(id).addEventListener("change", render));
+    document.getElementById("f-search").addEventListener("input", render);
+
+    render();
+  })
+  .catch(err => {
+    document.getElementById("rows").innerHTML = "";
+    document.getElementById("empty-msg").textContent = "Could not load data.json — make sure it's in the same folder as this file.";
+    document.getElementById("empty-msg").style.display = "block";
+  });
+</script>
+
+</body>
+</html>

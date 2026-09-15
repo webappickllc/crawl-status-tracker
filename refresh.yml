@@ -1,0 +1,41 @@
+name: Refresh crawl status
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily at 03:00 UTC - adjust as needed
+  workflow_dispatch: {}    # allows manual "Run workflow" trigger too
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install google-api-python-client google-auth
+
+      - name: Write service account credentials
+        run: echo '${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}' > service-account.json
+
+      - name: Generate data.json
+        run: |
+          python3 generate_crawl_status.py \
+            --credentials service-account.json \
+            --site-url "sc-domain:webappick.com" \
+            --sitemap "https://webappick.com/sitemap.xml" \
+            --output data.json
+
+      - name: Clean up credentials file
+        run: rm -f service-account.json
+
+      - name: Commit updated data.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "Refresh crawl status data"
+          git push

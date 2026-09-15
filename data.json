@@ -1,0 +1,17 @@
+{
+  "site": "sc-domain:webappick.com (sample data)",
+  "generatedAt": "2026-09-15 00:00 UTC",
+  "totalPages": 10,
+  "rows": [
+    {"url":"https://webappick.com/","type":"Home","lastUpdated":"2026-08-20","lastCrawled":"2026-09-13T04:10:00Z","inSitemap":true,"status":"Indexed"},
+    {"url":"https://webappick.com/ctx-feed/","type":"Product","lastUpdated":"2026-08-18","lastCrawled":"2026-09-12T11:05:00Z","inSitemap":true,"status":"Indexed"},
+    {"url":"https://webappick.com/blog/woocommerce-product-feed-guide/","type":"Blog","lastUpdated":"2026-07-02","lastCrawled":"2026-09-10T09:22:00Z","inSitemap":true,"status":"Indexed"},
+    {"url":"https://webappick.com/blog/google-merchant-center-errors/","type":"Blog","lastUpdated":"2026-06-11","lastCrawled":null,"inSitemap":true,"status":"Not Crawled"},
+    {"url":"https://webappick.com/challan-pro/","type":"Product","lastUpdated":"2026-05-30","lastCrawled":"2026-09-01T08:15:00Z","inSitemap":true,"status":"Crawled, Not Indexed"},
+    {"url":"https://webappick.com/blog/old-promo-page/","type":"Blog","lastUpdated":"2025-11-04","lastCrawled":"2026-04-22T13:40:00Z","inSitemap":false,"status":"Indexed"},
+    {"url":"https://webappick.com/blog/shopping-feed-tiktok/","type":"Blog","lastUpdated":"2026-08-29","lastCrawled":"2026-09-14T02:33:00Z","inSitemap":true,"status":"Indexed"},
+    {"url":"https://webappick.com/discoplugin/","type":"Product","lastUpdated":"2026-08-02","lastCrawled":"2026-09-05T06:12:00Z","inSitemap":true,"status":"Indexed"},
+    {"url":"https://webappick.com/blog/cdiscount-feed-setup/","type":"Blog","lastUpdated":"2026-09-01","lastCrawled":null,"inSitemap":true,"status":"Unknown"},
+    {"url":"https://webappick.com/contact/","type":"Page","lastUpdated":"2025-03-15","lastCrawled":"2026-08-19T17:00:00Z","inSitemap":true,"status":"Indexed"}
+  ]
+}
