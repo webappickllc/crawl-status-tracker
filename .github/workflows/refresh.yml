@@ -26,7 +26,7 @@ jobs:
           python3 generate_crawl_status.py \
             --credentials service-account.json \
             --site-url "sc-domain:webappick.com" \
-            --sitemap "https://webappick.com/sitemap.xml" \
+            --sitemap "https://webappick.com/sitemap_index.xml" \
             --output data.json
 
       - name: Clean up credentials file
