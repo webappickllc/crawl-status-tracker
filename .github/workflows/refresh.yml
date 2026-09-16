@@ -25,7 +25,7 @@ jobs:
         run: |
           python3 generate_crawl_status.py \
             --credentials service-account.json \
-            --site-url "sc-domain:dailyshikkha.com" \
+            --site-url "sc-domain:https://dailyshikkha.com/" \
             --sitemap "https://dailyshikkha.com/sitemap_index.xml" \
             --output data.json
 
