@@ -25,7 +25,9 @@ jobs:
 
       - name: Create service account credentials file
         run: |
-          echo '${{ secrets.GSC_CREDENTIALS }}' > service-account.json
+          cat << 'EOF' > service-account.json
+          ${{ secrets.GSC_CREDENTIALS }}
+          EOF  
 
       - name: Run crawl status generator
         run: |
