@@ -13,14 +13,14 @@ filterable, sortable crawl-status table.
 USAGE
   python3 generate_crawl_status.py \
       --credentials service-account.json \
-      --site-url "https://webappick.com/" \
-      --sitemap https://webappick.com/sitemap.xml \
+      --site-url "https://dailyshikkha.com/" \
+      --sitemap https://dailyshikkha.com/sitemap.xml \
       --output data.json
 
   # Or from a plain URL list instead of a live sitemap:
   python3 generate_crawl_status.py \
       --credentials service-account.json \
-      --site-url "sc-domain:webappick.com" \
+      --site-url "https://dailyshikkha.comm" \
       --url-list urls.txt \
       --output data.json
 
