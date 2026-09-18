@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -25,8 +27,8 @@ jobs:
         run: |
           python3 generate_crawl_status.py \
             --credentials service-account.json \
-            --site-url "sc-domain:https://dailyshikkha.com/" \
-            --sitemap "https://dailyshikkha.com/sitemap_index.xml" \
+            --site-url "https://dailyshikkha.com" \
+            --sitemap "https://dailyshikkha.com/sitemap.xml" \
             --output data.json
 
       - name: Clean up credentials file
