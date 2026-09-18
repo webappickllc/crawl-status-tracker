@@ -20,7 +20,7 @@ USAGE
   # Or from a plain URL list instead of a live sitemap:
   python3 generate_crawl_status.py \
       --credentials service-account.json \
-      --site-url "https://dailyshikkha.comm" \
+      --site-url "sc-domain:dailyshikkha.com" \
       --url-list urls.txt \
       --output data.json
 
@@ -142,7 +142,15 @@ def normalize_status(coverage_state: str) -> str:
         return "Crawled, Not Indexed"
     if "discovered" in c and "not indexed" in c:
         return "Not Crawled"
-    if not coverage_state or coverage_state == "Unknown":
+    if "unknown to google" in c:
+        return "Not Crawled"
+    if "redirect" in c:
+        return "Not Crawled"
+    if "404" in c or "not found" in c:
+        return "Not Crawled"
+    if "blocked" in c:
+        return "Not Crawled"
+    if not coverage_state:
         return "Unknown"
     return "Not Crawled"
 
@@ -197,6 +205,7 @@ def main():
                 "lastCrawled": last_crawl,
                 "inSitemap": url in sitemap_urls if sitemap_urls else None,
                 "status": normalize_status(coverage),
+                "rawStatus": coverage,  # Google's actual coverageState, for debugging
             }
         )
         time.sleep(args.sleep)
