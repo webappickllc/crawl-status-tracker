@@ -30,7 +30,7 @@ jobs:
             --site-url "https://dailyshikkha.com/" \
             --sitemap "https://dailyshikkha.com/sitemap.xml" \
             --output data.json \
-            --limit 5  
+            --limit 10  
 
       - name: Clean up credentials file
         run: rm -f service-account.json
