@@ -1,7 +1,7 @@
 {
   "site": "https://dailyshikkha.com/",
-  "generatedAt": "2026-09-18 12:27 UTC",
-  "totalPages": 5,
+  "generatedAt": "2026-09-18 12:52 UTC",
+  "totalPages": 10,
   "rows": [
     {
       "url": "https://dailyshikkha.com/blog/",
@@ -16,10 +16,10 @@
       "url": "https://dailyshikkha.com/chemistry-1st-paper-suggestion-degree/",
       "type": "Page",
       "lastUpdated": "2025-11-19T06:28:06+00:00",
-      "lastCrawled": null,
+      "lastCrawled": "2026-08-16T10:22:00Z",
       "inSitemap": true,
-      "status": "Not Crawled",
-      "rawStatus": "Unknown"
+      "status": "Indexed",
+      "rawStatus": "Submitted and indexed"
     },
     {
       "url": "https://dailyshikkha.com/degree-3rd-year-exam-routine/",
@@ -47,6 +47,51 @@
       "inSitemap": true,
       "status": "Crawled, Not Indexed",
       "rawStatus": "Crawled - currently not indexed"
+    },
+    {
+      "url": "https://dailyshikkha.com/degree-admission/",
+      "type": "Page",
+      "lastUpdated": "2025-09-16T15:36:21+00:00",
+      "lastCrawled": "2026-09-17T10:54:31Z",
+      "inSitemap": true,
+      "status": "Indexed",
+      "rawStatus": "Submitted and indexed"
+    },
+    {
+      "url": "https://dailyshikkha.com/degree-3rd-year-management-5th-paper-suggestion/",
+      "type": "Page",
+      "lastUpdated": "2025-09-06T04:22:44+00:00",
+      "lastCrawled": "2026-09-01T18:35:25Z",
+      "inSitemap": true,
+      "status": "Indexed",
+      "rawStatus": "Submitted and indexed"
+    },
+    {
+      "url": "https://dailyshikkha.com/current-affairs-05-september-2025/",
+      "type": "Page",
+      "lastUpdated": "2025-09-05T05:07:08+00:00",
+      "lastCrawled": "2026-08-04T12:03:18Z",
+      "inSitemap": true,
+      "status": "Indexed",
+      "rawStatus": "Submitted and indexed"
+    },
+    {
+      "url": "https://dailyshikkha.com/current-affairs-04-september-2025/",
+      "type": "Page",
+      "lastUpdated": "2025-09-04T03:36:01+00:00",
+      "lastCrawled": "2026-08-18T13:01:20Z",
+      "inSitemap": true,
+      "status": "Indexed",
+      "rawStatus": "Submitted and indexed"
+    },
+    {
+      "url": "https://dailyshikkha.com/current-affairs-03-september-2025/",
+      "type": "Page",
+      "lastUpdated": "2025-09-03T03:39:54+00:00",
+      "lastCrawled": "2026-08-16T18:15:18Z",
+      "inSitemap": true,
+      "status": "Indexed",
+      "rawStatus": "Submitted and indexed"
     }
   ]
 }
