@@ -267,7 +267,7 @@ function render(){
       <td class="date">${fmtDate(r.lastUpdated)}</td>
       <td class="date">${fmtDate(r.lastCrawled)}</td>
       <td class="${r.inSitemap ? 'sitemap-yes':'sitemap-no'}">${r.inSitemap ? "In sitemap" : "Not in sitemap"}</td>
-      <td><span class="status"><span class="dot ${statusClass(r.status)}"></span>${r.status}</span></td>
+      <td><span class="status" title="${r.rawStatus || ''}"><span class="dot ${statusClass(r.status)}"></span>${r.status}</span></td>
     </tr>
   `).join("");
 
