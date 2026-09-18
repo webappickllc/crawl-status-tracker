@@ -2,7 +2,7 @@ name: Refresh crawl status
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # daily at 03:00 UTC - adjust as needed
+    - cron: "0 20 * * *"   # daily at 20:00 UTC = 2:00 AM Dhaka time
   workflow_dispatch: {}    # allows manual "Run workflow" trigger too
 
 jobs:
