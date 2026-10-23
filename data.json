@@ -1,6 +1,6 @@
 {
   "site": "https://dailyshikkha.com/",
-  "generatedAt": "2026-10-22 02:26 UTC",
+  "generatedAt": "2026-10-23 02:23 UTC",
   "totalPages": 1676,
   "rows": [
     {
@@ -25,7 +25,7 @@
       "url": "https://dailyshikkha.com/degree-3rd-year-exam-routine/",
       "type": "Page",
       "lastUpdated": "2025-11-16T16:02:41+00:00",
-      "lastCrawled": "2026-10-20T08:41:06Z",
+      "lastCrawled": "2026-10-22T10:19:59Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -43,16 +43,16 @@
       "url": "https://dailyshikkha.com/jahangirnagar-university-a-unit/",
       "type": "Page",
       "lastUpdated": "2025-11-16T15:56:10+00:00",
-      "lastCrawled": "2026-03-01T06:56:20Z",
+      "lastCrawled": null,
       "inSitemap": true,
-      "status": "Crawled, Not Indexed",
-      "rawStatus": "Crawled - currently not indexed"
+      "status": "Not Crawled",
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/degree-admission/",
       "type": "Page",
       "lastUpdated": "2025-09-16T15:36:21+00:00",
-      "lastCrawled": "2026-10-11T01:58:55Z",
+      "lastCrawled": "2026-10-22T13:35:10Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -106,7 +106,7 @@
       "url": "https://dailyshikkha.com/degree-3rd-year-accounting-6th-paper-suggestion/",
       "type": "Page",
       "lastUpdated": "2025-09-02T18:47:11+00:00",
-      "lastCrawled": "2026-10-14T11:53:59Z",
+      "lastCrawled": "2026-10-16T23:16:36Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -190,7 +190,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/degree-3rd-year-history-6th-paper-suggestion/",
@@ -280,7 +280,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/degree-3rd-year-geography-5th-paper-suggestion/",
@@ -502,7 +502,7 @@
       "url": "https://dailyshikkha.com/du-a-unit-question-bank/",
       "type": "Page",
       "lastUpdated": "2025-08-15T13:45:22+00:00",
-      "lastCrawled": "2026-10-06T22:31:02Z",
+      "lastCrawled": "2026-10-22T20:18:31Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -523,7 +523,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/health-assistant-question-bank-and-solution-pdf/",
@@ -646,7 +646,7 @@
       "url": "https://dailyshikkha.com/degree-admission-fee-and-documents/",
       "type": "Page",
       "lastUpdated": "2025-08-13T15:55:36+00:00",
-      "lastCrawled": "2026-10-13T01:37:14Z",
+      "lastCrawled": "2026-10-22T13:55:08Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -658,7 +658,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/honours-1st-year-bangla-kobita-1-suggestion/",
@@ -781,7 +781,7 @@
       "url": "https://dailyshikkha.com/degree-islamic-history-5th-paper-suggestion/",
       "type": "Page",
       "lastUpdated": "2025-08-08T06:20:00+00:00",
-      "lastCrawled": "2026-10-19T09:48:32Z",
+      "lastCrawled": "2026-10-20T23:01:12Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -889,7 +889,7 @@
       "url": "https://dailyshikkha.com/nu-1st-year-islamic-history-department-book-list/",
       "type": "Page",
       "lastUpdated": "2025-08-08T04:06:04+00:00",
-      "lastCrawled": "2026-10-04T17:20:27Z",
+      "lastCrawled": "2026-10-17T10:19:02Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -901,7 +901,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-06-august-2025/",
@@ -919,7 +919,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-05-august-2025/",
@@ -1000,7 +1000,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/nu-1st-year-bangla-department-book-list/",
@@ -1024,7 +1024,7 @@
       "url": "https://dailyshikkha.com/honours-1st-year-bangla-uponnas-1-suggestion/",
       "type": "Page",
       "lastUpdated": "2025-08-01T04:45:35+00:00",
-      "lastCrawled": "2026-10-04T23:18:01Z",
+      "lastCrawled": "2026-10-22T04:11:49Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -1090,7 +1090,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/honours-1st-year-western-political-thought-suggestion/",
@@ -1108,7 +1108,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-28-july-2025/",
@@ -1198,7 +1198,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-19-july-2025/",
@@ -1213,7 +1213,7 @@
       "url": "https://dailyshikkha.com/nu-2nd-year-bangla-department-book-list/",
       "type": "Page",
       "lastUpdated": "2025-07-18T08:52:16+00:00",
-      "lastCrawled": "2026-09-20T17:04:37Z",
+      "lastCrawled": "2026-10-22T01:30:04Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -1243,7 +1243,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/honours-1st-year-routine/",
@@ -1306,7 +1306,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/pmeat-scholarship/",
@@ -1324,7 +1324,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/ssc-board-challenge/",
@@ -1342,7 +1342,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-12-july-2025/",
@@ -1375,7 +1375,7 @@
       "url": "https://dailyshikkha.com/all-colleges-in-bangladesh/",
       "type": "Page",
       "lastUpdated": "2025-07-11T06:44:49+00:00",
-      "lastCrawled": "2026-10-16T12:00:27Z",
+      "lastCrawled": "2026-10-22T11:37:03Z",
       "inSitemap": true,
       "status": "Crawled, Not Indexed",
       "rawStatus": "Crawled - currently not indexed"
@@ -1450,7 +1450,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/dhaka-city-college-hsc-admission-circular/",
@@ -1468,7 +1468,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-11-july-2025/",
@@ -1477,7 +1477,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-10-july-2025/",
@@ -1486,7 +1486,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-09-july-2025/",
@@ -1504,7 +1504,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-08-july-2025/",
@@ -1639,16 +1639,16 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/honours-admission-result/",
       "type": "Page",
       "lastUpdated": "2025-06-25T14:50:36+00:00",
-      "lastCrawled": null,
+      "lastCrawled": "2026-10-22T12:04:02Z",
       "inSitemap": true,
-      "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "status": "Indexed",
+      "rawStatus": "Submitted and indexed"
     },
     {
       "url": "https://dailyshikkha.com/oporicita-golper-mcq/",
@@ -1657,7 +1657,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/nu-1st-year-sanskrit-department-book-list/",
@@ -1789,7 +1789,7 @@
       "url": "https://dailyshikkha.com/nu-1st-year-islamic-psychology-department-book-list/",
       "type": "Page",
       "lastUpdated": "2025-06-23T03:18:47+00:00",
-      "lastCrawled": "2026-10-04T19:28:00Z",
+      "lastCrawled": "2026-10-22T17:11:52Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -1888,7 +1888,7 @@
       "url": "https://dailyshikkha.com/bangla-suggestion-degree-2nd-year/",
       "type": "Page",
       "lastUpdated": "2025-06-22T03:43:53+00:00",
-      "lastCrawled": "2026-10-19T23:07:13Z",
+      "lastCrawled": "2026-10-20T23:05:41Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -1900,7 +1900,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/what-is-preliminary-to-masters/",
@@ -2026,7 +2026,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/hsc-production-management-and-marketing-1st-paper/",
@@ -2050,7 +2050,7 @@
       "url": "https://dailyshikkha.com/hsc-bangla-1st-paper-question-solution/",
       "type": "Page",
       "lastUpdated": "2025-06-18T02:34:06+00:00",
-      "lastCrawled": "2026-10-04T22:23:30Z",
+      "lastCrawled": "2026-10-22T02:03:59Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -2122,10 +2122,10 @@
       "url": "https://dailyshikkha.com/islamic-history-and-culture-1st-paper-7-mcq/",
       "type": "Page",
       "lastUpdated": "2025-06-17T15:43:37+00:00",
-      "lastCrawled": null,
+      "lastCrawled": "2026-10-12T00:37:25Z",
       "inSitemap": true,
-      "status": "Not Crawled",
-      "rawStatus": "Unknown"
+      "status": "Indexed",
+      "rawStatus": "Submitted and indexed"
     },
     {
       "url": "https://dailyshikkha.com/islamic-history-and-culture-1st-paper-6-mcq/",
@@ -2140,7 +2140,7 @@
       "url": "https://dailyshikkha.com/islamic-history-and-culture-1st-paper-5-mcq/",
       "type": "Page",
       "lastUpdated": "2025-06-17T15:42:05+00:00",
-      "lastCrawled": "2026-10-08T00:42:02Z",
+      "lastCrawled": "2026-10-22T19:44:40Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -2302,10 +2302,10 @@
       "url": "https://dailyshikkha.com/full-form-of-rna/",
       "type": "Page",
       "lastUpdated": "2025-05-19T04:42:04+00:00",
-      "lastCrawled": null,
+      "lastCrawled": "2026-06-22T03:33:23Z",
       "inSitemap": true,
-      "status": "Not Crawled",
-      "rawStatus": "Unknown"
+      "status": "Crawled, Not Indexed",
+      "rawStatus": "Crawled - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/today-salah-time/",
@@ -2320,7 +2320,7 @@
       "url": "https://dailyshikkha.com/degree-subject-code/",
       "type": "Page",
       "lastUpdated": "2025-05-18T16:55:24+00:00",
-      "lastCrawled": "2026-09-28T22:23:45Z",
+      "lastCrawled": "2026-10-22T05:36:00Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -2392,7 +2392,7 @@
       "url": "https://dailyshikkha.com/nursing-admission-circular/",
       "type": "Page",
       "lastUpdated": "2025-05-15T17:59:58+00:00",
-      "lastCrawled": "2026-09-28T19:20:54Z",
+      "lastCrawled": "2026-10-22T15:40:46Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -2467,7 +2467,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/list-of-cyclone-names-in-bangla/",
@@ -2482,7 +2482,7 @@
       "url": "https://dailyshikkha.com/sakura-paribahan-dhaka-to-barisal/",
       "type": "Page",
       "lastUpdated": "2025-04-16T05:18:34+00:00",
-      "lastCrawled": "2026-10-19T14:04:30Z",
+      "lastCrawled": "2026-10-21T18:05:37Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -2566,7 +2566,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/nsi-job-circular/",
@@ -2619,8 +2619,8 @@
       "lastUpdated": "2025-04-02T15:10:12+00:00",
       "lastCrawled": "2026-07-09T14:44:07Z",
       "inSitemap": true,
-      "status": "Indexed",
-      "rawStatus": "Submitted and indexed"
+      "status": "Crawled, Not Indexed",
+      "rawStatus": "Crawled - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/ssc-ict-question-solution/",
@@ -2773,7 +2773,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/ssc-scholarship-result/",
@@ -2800,7 +2800,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/st-gregory-college-hsc-admission-circular/",
@@ -2818,7 +2818,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Unknown"
     },
     {
       "url": "https://dailyshikkha.com/dhaka-holy-cross-college-hsc-admission-circular/",
@@ -2863,16 +2863,16 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/polytechnic-diploma-admission-circular/",
       "type": "Page",
       "lastUpdated": "2025-03-26T16:33:49+00:00",
-      "lastCrawled": null,
+      "lastCrawled": "2026-10-22T05:27:52Z",
       "inSitemap": true,
-      "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "status": "Crawled, Not Indexed",
+      "rawStatus": "Crawled - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/best-diploma-polytechnic-institute-in-bangladesh/",
@@ -2914,7 +2914,7 @@
       "url": "https://dailyshikkha.com/today-sehri-iftar-time-bd/",
       "type": "Page",
       "lastUpdated": "2025-03-16T16:09:20+00:00",
-      "lastCrawled": "2026-10-04T20:30:20Z",
+      "lastCrawled": "2026-10-22T15:55:43Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -2923,10 +2923,10 @@
       "url": "https://dailyshikkha.com/today-currency-rate/",
       "type": "Page",
       "lastUpdated": "2025-03-16T15:43:11+00:00",
-      "lastCrawled": null,
+      "lastCrawled": "2026-10-22T18:02:34Z",
       "inSitemap": true,
-      "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "status": "Crawled, Not Indexed",
+      "rawStatus": "Crawled - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/todays-foreign-currency-exchange-rate/",
@@ -3418,7 +3418,7 @@
       "url": "https://dailyshikkha.com/ramadan-calender-bhola/",
       "type": "Page",
       "lastUpdated": "2025-03-01T05:56:51+00:00",
-      "lastCrawled": "2026-09-26T05:33:14Z",
+      "lastCrawled": "2026-10-22T04:10:03Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -3877,10 +3877,10 @@
       "url": "https://dailyshikkha.com/current-affairs-25-february-2025/",
       "type": "Page",
       "lastUpdated": "2025-02-24T17:05:18+00:00",
-      "lastCrawled": "2026-04-25T05:40:37Z",
+      "lastCrawled": null,
       "inSitemap": true,
-      "status": "Crawled, Not Indexed",
-      "rawStatus": "Crawled - currently not indexed"
+      "status": "Not Crawled",
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/judicial-magistrate-eligibility/",
@@ -4255,7 +4255,7 @@
       "url": "https://dailyshikkha.com/current-affairs-23-january-2025/",
       "type": "Page",
       "lastUpdated": "2025-01-24T14:37:53+00:00",
-      "lastCrawled": "2026-09-17T04:16:40Z",
+      "lastCrawled": "2026-10-22T04:34:03Z",
       "inSitemap": true,
       "status": "Crawled, Not Indexed",
       "rawStatus": "Crawled - currently not indexed"
@@ -4543,7 +4543,7 @@
       "url": "https://dailyshikkha.com/meghna-petroleum-limited-job-circular/",
       "type": "Page",
       "lastUpdated": "2025-01-01T15:43:55+00:00",
-      "lastCrawled": "2026-09-27T09:10:27Z",
+      "lastCrawled": "2026-10-22T04:26:18Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -4894,7 +4894,7 @@
       "url": "https://dailyshikkha.com/alim-arabic-2nd-paper-guide-book-pdf/",
       "type": "Page",
       "lastUpdated": "2024-12-17T12:04:10+00:00",
-      "lastCrawled": "2026-10-04T17:15:09Z",
+      "lastCrawled": "2026-10-18T00:12:51Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -5290,7 +5290,7 @@
       "url": "https://dailyshikkha.com/bangla-educational-story/",
       "type": "Page",
       "lastUpdated": "2024-11-29T17:20:26+00:00",
-      "lastCrawled": "2026-10-20T01:54:28Z",
+      "lastCrawled": "2026-10-22T03:08:54Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -5428,7 +5428,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-23-november-2024/",
@@ -5518,7 +5518,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-19-november-2024/",
@@ -5533,7 +5533,7 @@
       "url": "https://dailyshikkha.com/buet-admission/",
       "type": "Page",
       "lastUpdated": "2024-11-18T17:54:16+00:00",
-      "lastCrawled": "2026-10-04T17:08:27Z",
+      "lastCrawled": "2026-10-22T15:47:47Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -5545,7 +5545,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-18-november-2024/",
@@ -5617,7 +5617,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/14-november-history/",
@@ -5689,7 +5689,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/3-july-history/",
@@ -5716,7 +5716,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/7-july-history/",
@@ -5725,7 +5725,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/13-november-history/",
@@ -5770,7 +5770,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-11-november-2024/",
@@ -5788,7 +5788,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-09-november-2024/",
@@ -5833,7 +5833,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-04-november-2024/",
@@ -5851,7 +5851,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-02-november-2024/",
@@ -5941,7 +5941,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/golpe-jolpe-jenetics-pdf-download/",
@@ -5950,7 +5950,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/professors-current-affairs-march-2022/",
@@ -5977,7 +5977,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/sylhet-engineering-college-admission-notice/",
@@ -6031,7 +6031,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/pust-admission-circular-eligibility-and-seat-number/",
@@ -6172,7 +6172,7 @@
       "url": "https://dailyshikkha.com/du-technology-unit-admission-circular/",
       "type": "Page",
       "lastUpdated": "2024-10-30T15:57:09+00:00",
-      "lastCrawled": "2026-10-04T23:44:15Z",
+      "lastCrawled": "2026-10-22T16:54:02Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -6199,7 +6199,7 @@
       "url": "https://dailyshikkha.com/bu-admission-circular-eligibility-and-seat-number/",
       "type": "Page",
       "lastUpdated": "2024-10-30T15:56:00+00:00",
-      "lastCrawled": "2026-10-04T17:30:22Z",
+      "lastCrawled": "2026-10-22T16:51:06Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -6247,7 +6247,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/agriculture-cluster-admission-mark-distribution/",
@@ -6265,7 +6265,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-26-october-2024/",
@@ -6382,7 +6382,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-12-october-2024/",
@@ -6400,7 +6400,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/paragraph-on-your-college-canteen/",
@@ -6418,7 +6418,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/now-write-paragraph-on-friendship/",
@@ -6490,7 +6490,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/paragraph-on-information-technology/",
@@ -6499,7 +6499,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/dialogue-between-two-friends-on-climate-change/",
@@ -6553,7 +6553,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/a-letter-to-your-friend-describing/",
@@ -6580,7 +6580,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/a-letter-to-your-friend-about-value-of/",
@@ -6625,7 +6625,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/a-letter-to-your-friend-about-pahela/",
@@ -6634,7 +6634,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/letter-inviting-your-friend-attend-the-marriage-ceremony/",
@@ -6715,13 +6715,13 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/saudia-paribahan/",
       "type": "Page",
       "lastUpdated": "2024-10-04T03:14:05+00:00",
-      "lastCrawled": "2026-10-19T13:39:30Z",
+      "lastCrawled": "2026-10-21T14:58:11Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -6823,7 +6823,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-26-september-2024/",
@@ -6832,7 +6832,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/plan-international-job-circular/",
@@ -6895,7 +6895,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/akij-food-and-beverage-limited-job-circular/",
@@ -6958,7 +6958,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/additional-district-judges-office-job-circular/",
@@ -6994,7 +6994,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs-18-september-2024/",
@@ -7057,7 +7057,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/barc-job-circular/",
@@ -7111,7 +7111,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/wave-foundation-job-circular/",
@@ -7138,7 +7138,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/ministry-of-defense-job-circular/",
@@ -7165,7 +7165,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/rupayan-group-job-circular/",
@@ -7183,7 +7183,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/bangladesh-chemical-industries-corporation-job-circular/",
@@ -7210,7 +7210,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/minister-company-job-circular/",
@@ -7255,7 +7255,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/karnaphuli-group-job-circular/",
@@ -7273,7 +7273,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/walton-group-job-circular/",
@@ -7291,7 +7291,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/icb-islamic-bank-plc-job-circular/",
@@ -7327,7 +7327,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/dhaka-south-city-corporation-job-exam-schedule/",
@@ -7360,7 +7360,7 @@
       "url": "https://dailyshikkha.com/rules-for-educational-qualifications-in-cv/",
       "type": "Page",
       "lastUpdated": "2024-09-08T19:24:27+00:00",
-      "lastCrawled": "2026-10-07T10:33:35Z",
+      "lastCrawled": "2026-10-22T03:11:25Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -8263,7 +8263,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Unknown"
     },
     {
       "url": "https://dailyshikkha.com/beximco-pharmaceuticals-limited-job-circular/",
@@ -8467,7 +8467,7 @@
       "url": "https://dailyshikkha.com/current-affairs-2-july-2024/",
       "type": "Page",
       "lastUpdated": "2024-07-02T17:36:10+00:00",
-      "lastCrawled": "2026-10-10T23:36:59Z",
+      "lastCrawled": "2026-10-22T11:20:59Z",
       "inSitemap": true,
       "status": "Crawled, Not Indexed",
       "rawStatus": "Crawled - currently not indexed"
@@ -8521,7 +8521,7 @@
       "url": "https://dailyshikkha.com/sust-job-circular/",
       "type": "Page",
       "lastUpdated": "2024-07-01T15:26:58+00:00",
-      "lastCrawled": "2026-05-29T18:49:59Z",
+      "lastCrawled": "2026-10-22T07:17:17Z",
       "inSitemap": true,
       "status": "Crawled, Not Indexed",
       "rawStatus": "Crawled - currently not indexed"
@@ -8881,7 +8881,7 @@
       "url": "https://dailyshikkha.com/all-pharmaceuticals-job-circular/",
       "type": "Page",
       "lastUpdated": "2024-06-21T04:14:15+00:00",
-      "lastCrawled": "2026-10-19T21:04:29Z",
+      "lastCrawled": "2026-10-21T21:58:01Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -8935,7 +8935,7 @@
       "url": "https://dailyshikkha.com/bpl/",
       "type": "Page",
       "lastUpdated": "2025-02-07T16:28:52+00:00",
-      "lastCrawled": "2026-09-19T07:44:07Z",
+      "lastCrawled": "2026-10-22T22:58:05Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -8980,7 +8980,7 @@
       "url": "https://dailyshikkha.com/quotes-about-womens-day/",
       "type": "Page",
       "lastUpdated": "2024-06-17T18:34:29+00:00",
-      "lastCrawled": "2026-10-06T08:59:32Z",
+      "lastCrawled": "2026-10-22T04:27:11Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -9097,7 +9097,7 @@
       "url": "https://dailyshikkha.com/quotes-about-believe/",
       "type": "Page",
       "lastUpdated": "2024-06-17T18:30:38+00:00",
-      "lastCrawled": "2026-10-08T09:24:12Z",
+      "lastCrawled": "2026-10-22T21:45:32Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -9493,7 +9493,7 @@
       "url": "https://dailyshikkha.com/pksf-job-circular/",
       "type": "Page",
       "lastUpdated": "2024-06-07T12:53:37+00:00",
-      "lastCrawled": "2026-09-21T20:42:41Z",
+      "lastCrawled": "2026-10-22T22:24:20Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -9916,19 +9916,19 @@
       "url": "https://dailyshikkha.com/breb-exam-result/",
       "type": "Page",
       "lastUpdated": "2024-05-10T05:20:01+00:00",
-      "lastCrawled": null,
+      "lastCrawled": "2026-10-22T11:59:52Z",
       "inSitemap": true,
-      "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "status": "Crawled, Not Indexed",
+      "rawStatus": "Crawled - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/dscc-exam-result/",
       "type": "Page",
       "lastUpdated": "2024-05-10T05:18:56+00:00",
-      "lastCrawled": null,
+      "lastCrawled": "2026-10-22T12:00:34Z",
       "inSitemap": true,
-      "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "status": "Crawled, Not Indexed",
+      "rawStatus": "Crawled - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/dncc-exam-result/",
@@ -10051,7 +10051,7 @@
       "url": "https://dailyshikkha.com/gst-b-unit-question-solution/",
       "type": "Page",
       "lastUpdated": "2024-05-10T05:09:06+00:00",
-      "lastCrawled": "2026-09-30T14:42:10Z",
+      "lastCrawled": "2026-10-12T13:27:38Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -10060,7 +10060,7 @@
       "url": "https://dailyshikkha.com/br-assistant-station-master-question-solution/",
       "type": "Page",
       "lastUpdated": "2024-05-10T05:08:32+00:00",
-      "lastCrawled": "2026-10-18T08:01:37Z",
+      "lastCrawled": "2026-10-22T10:19:56Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -10132,7 +10132,7 @@
       "url": "https://dailyshikkha.com/professors-job-solution-pdf-download/",
       "type": "Page",
       "lastUpdated": "2024-05-07T17:00:58+00:00",
-      "lastCrawled": "2026-10-07T14:47:30Z",
+      "lastCrawled": "2026-10-22T04:43:17Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -10420,7 +10420,7 @@
       "url": "https://dailyshikkha.com/anchor-cement-price/",
       "type": "Page",
       "lastUpdated": "2024-02-27T17:53:15+00:00",
-      "lastCrawled": "2026-10-04T19:08:35Z",
+      "lastCrawled": "2026-10-18T00:18:22Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -11374,7 +11374,7 @@
       "url": "https://dailyshikkha.com/b-ed-colleges-list/",
       "type": "Page",
       "lastUpdated": "2024-01-07T10:40:59+00:00",
-      "lastCrawled": "2026-10-12T01:18:04Z",
+      "lastCrawled": "2026-10-22T10:17:48Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -11392,7 +11392,7 @@
       "url": "https://dailyshikkha.com/list-of-bteb-holidays/",
       "type": "Page",
       "lastUpdated": "2024-01-07T07:05:42+00:00",
-      "lastCrawled": "2026-10-04T19:29:34Z",
+      "lastCrawled": "2026-10-22T12:01:16Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -11401,10 +11401,10 @@
       "url": "https://dailyshikkha.com/list-of-primary-school-holidays/",
       "type": "Page",
       "lastUpdated": "2023-12-31T15:43:17+00:00",
-      "lastCrawled": null,
+      "lastCrawled": "2026-10-22T12:06:49Z",
       "inSitemap": true,
-      "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "status": "Crawled, Not Indexed",
+      "rawStatus": "Crawled - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/architectural-institutions/",
@@ -11608,10 +11608,10 @@
       "url": "https://dailyshikkha.com/bl-number-check-code/",
       "type": "Page",
       "lastUpdated": "2022-08-22T14:57:13+00:00",
-      "lastCrawled": "2026-04-26T00:14:11Z",
+      "lastCrawled": null,
       "inSitemap": true,
-      "status": "Crawled, Not Indexed",
-      "rawStatus": "Crawled - currently not indexed"
+      "status": "Not Crawled",
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/quotes-on-friendship/",
@@ -11680,10 +11680,10 @@
       "url": "https://dailyshikkha.com/fajr-namaz-niyat/",
       "type": "Page",
       "lastUpdated": "2022-08-22T15:25:14+00:00",
-      "lastCrawled": null,
+      "lastCrawled": "2026-04-20T16:28:27Z",
       "inSitemap": true,
-      "status": "Not Crawled",
-      "rawStatus": "Unknown"
+      "status": "Crawled, Not Indexed",
+      "rawStatus": "Crawled - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/bkash-11-taka-recharge-offer/",
@@ -11806,7 +11806,7 @@
       "url": "https://dailyshikkha.com/rakib-name-meaning/",
       "type": "Page",
       "lastUpdated": "2022-08-22T19:58:34+00:00",
-      "lastCrawled": "2026-09-20T21:42:45Z",
+      "lastCrawled": "2026-10-22T20:03:50Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -12067,10 +12067,10 @@
       "url": "https://dailyshikkha.com/hsc-result/",
       "type": "Page",
       "lastUpdated": "2022-08-23T06:23:33+00:00",
-      "lastCrawled": null,
+      "lastCrawled": "2026-10-22T10:14:55Z",
       "inSitemap": true,
-      "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "status": "Crawled, Not Indexed",
+      "rawStatus": "Crawled - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/medical-question-bank/",
@@ -12292,7 +12292,7 @@
       "url": "https://dailyshikkha.com/war-quotes/",
       "type": "Page",
       "lastUpdated": "2022-08-22T19:07:00+00:00",
-      "lastCrawled": "2026-10-18T09:25:45Z",
+      "lastCrawled": "2026-10-20T10:08:49Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -12409,7 +12409,7 @@
       "url": "https://dailyshikkha.com/bangabandhu-quotes/",
       "type": "Page",
       "lastUpdated": "2022-08-22T17:46:15+00:00",
-      "lastCrawled": "2026-10-07T14:26:34Z",
+      "lastCrawled": "2026-10-22T07:06:43Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -12430,7 +12430,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Unknown"
     },
     {
       "url": "https://dailyshikkha.com/programming-er-chouddogoshthi-pdf-download/",
@@ -12544,10 +12544,10 @@
       "url": "https://dailyshikkha.com/bangladesh-all-museum-list/",
       "type": "Page",
       "lastUpdated": "2022-08-22T18:29:27+00:00",
-      "lastCrawled": null,
+      "lastCrawled": "2026-10-22T12:05:26Z",
       "inSitemap": true,
-      "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "status": "Crawled, Not Indexed",
+      "rawStatus": "Crawled - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/dhaka-vs-khulna/",
@@ -12670,10 +12670,10 @@
       "url": "https://dailyshikkha.com/paragraph-on-humanity/",
       "type": "Page",
       "lastUpdated": "2022-08-22T14:51:34+00:00",
-      "lastCrawled": "2026-02-28T23:26:11Z",
+      "lastCrawled": null,
       "inSitemap": true,
-      "status": "Crawled, Not Indexed",
-      "rawStatus": "Crawled - currently not indexed"
+      "status": "Not Crawled",
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/barishal-vs-chattogram-live-score/",
@@ -12886,7 +12886,7 @@
       "url": "https://dailyshikkha.com/premer-ukti/",
       "type": "Page",
       "lastUpdated": "2022-08-23T01:16:41+00:00",
-      "lastCrawled": "2026-09-26T04:01:34Z",
+      "lastCrawled": "2026-10-22T19:23:32Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -13057,7 +13057,7 @@
       "url": "https://dailyshikkha.com/amplification-on-honesty-is-the-best-policy/",
       "type": "Page",
       "lastUpdated": "2022-08-23T06:20:35+00:00",
-      "lastCrawled": "2026-03-17T05:18:33Z",
+      "lastCrawled": "2026-10-22T12:10:59Z",
       "inSitemap": true,
       "status": "Crawled, Not Indexed",
       "rawStatus": "Crawled - currently not indexed"
@@ -13174,7 +13174,7 @@
       "url": "https://dailyshikkha.com/list-of-alia-madrasas-in-bangladesh/",
       "type": "Page",
       "lastUpdated": "2022-08-22T16:00:22+00:00",
-      "lastCrawled": "2026-10-07T14:22:34Z",
+      "lastCrawled": "2026-10-22T12:08:13Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -13249,7 +13249,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/bangabandhu-kabita/",
@@ -13312,7 +13312,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/sylhet-sunrisers/",
@@ -13348,7 +13348,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/quotes-about-ego/",
@@ -13411,7 +13411,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/biddya-koushol-pdf-download/",
@@ -13483,7 +13483,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/a-tale-of-two-cities-bangla-pdf-download/",
@@ -13492,7 +13492,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/now-write-paragraph-on-digital/",
@@ -13501,7 +13501,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/professors-current-affairs-oct-2021/",
@@ -13537,7 +13537,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/gp-flexi-plan-offer/",
@@ -13546,7 +13546,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/now-write-paragraph-on-child-labor-in/",
@@ -13600,7 +13600,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/now-write-paragraph-on-tree-plantation/",
@@ -13618,7 +13618,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/amar-dekha-noya-china-pdf-download/",
@@ -13645,7 +13645,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/now-write-paragraph-on-patriotism/",
@@ -13654,7 +13654,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/now-write-paragraph-on-summer-fruits-of/",
@@ -13690,7 +13690,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/professors-current-affairs-au-2021/",
@@ -13771,7 +13771,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/5-habits-that-kill-your-motivation/",
@@ -13789,7 +13789,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/now-write-amplification-on-slow-and/",
@@ -13876,10 +13876,10 @@
       "url": "https://dailyshikkha.com/education-commissions-in-bangladesh/",
       "type": "Page",
       "lastUpdated": "2022-08-23T03:27:14+00:00",
-      "lastCrawled": "2026-09-16T02:59:13Z",
+      "lastCrawled": "2026-10-22T21:20:32Z",
       "inSitemap": true,
-      "status": "Indexed",
-      "rawStatus": "Submitted and indexed"
+      "status": "Crawled, Not Indexed",
+      "rawStatus": "Crawled - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/write-report-on-acid-throwing/",
@@ -13975,7 +13975,7 @@
       "url": "https://dailyshikkha.com/paragraph-on-winter-vegetables/",
       "type": "Page",
       "lastUpdated": "2022-08-22T12:19:26+00:00",
-      "lastCrawled": "2026-10-04T19:48:06Z",
+      "lastCrawled": "2026-10-22T20:39:19Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -14038,7 +14038,7 @@
       "url": "https://dailyshikkha.com/quotes-about-forgiveness/",
       "type": "Page",
       "lastUpdated": "2022-08-22T16:31:42+00:00",
-      "lastCrawled": "2026-10-06T08:33:09Z",
+      "lastCrawled": "2026-10-22T20:26:45Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -14182,7 +14182,7 @@
       "url": "https://dailyshikkha.com/",
       "type": "Home",
       "lastUpdated": "2025-08-13T14:53:47+00:00",
-      "lastCrawled": "2026-10-19T16:07:32Z",
+      "lastCrawled": "2026-10-21T18:20:24Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -14221,7 +14221,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/on-this-day/",
@@ -14230,7 +14230,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/dhaka-education-board/",
@@ -14326,7 +14326,7 @@
       "url": "https://dailyshikkha.com/english/paragraph/",
       "type": "Page",
       "lastUpdated": "2024-10-05T15:14:12+00:00",
-      "lastCrawled": "2026-09-19T04:56:33Z",
+      "lastCrawled": "2026-10-22T07:05:07Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -14338,7 +14338,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/english/essay/",
@@ -14347,7 +14347,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/english/report/",
@@ -14554,7 +14554,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/current-affairs/",
@@ -14758,7 +14758,7 @@
       "url": "https://dailyshikkha.com/national-university/honours/",
       "type": "Page",
       "lastUpdated": "2025-07-16T16:45:20+00:00",
-      "lastCrawled": "2026-07-14T07:05:59Z",
+      "lastCrawled": "2026-10-22T08:24:59Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -14776,7 +14776,7 @@
       "url": "https://dailyshikkha.com/pharma-jobs/",
       "type": "Page",
       "lastUpdated": "2024-10-31T13:12:00+00:00",
-      "lastCrawled": "2026-09-28T18:41:31Z",
+      "lastCrawled": "2026-10-22T04:19:29Z",
       "inSitemap": true,
       "status": "Indexed",
       "rawStatus": "Submitted and indexed"
@@ -14851,7 +14851,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "URL is unknown to Google"
+      "rawStatus": "Discovered - currently not indexed"
     },
     {
       "url": "https://dailyshikkha.com/university-job-circular/",
@@ -14932,7 +14932,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/class-6/",
@@ -14941,7 +14941,7 @@
       "lastCrawled": null,
       "inSitemap": true,
       "status": "Not Crawled",
-      "rawStatus": "Discovered - currently not indexed"
+      "rawStatus": "URL is unknown to Google"
     },
     {
       "url": "https://dailyshikkha.com/degree-1st-year/",
